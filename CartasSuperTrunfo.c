@@ -2,7 +2,7 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
-// Nível Aventureiro
+// Nível Mestre
 
 int main() {
 
